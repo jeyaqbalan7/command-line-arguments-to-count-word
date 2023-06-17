@@ -33,7 +33,7 @@ print("No of words in a file",count)
 ```
 
 ### OUTPUT:
-command1.png
+c008cd6fc3a82721cf0e292f5bd05ec220267aac
 
 
 ## RESULT:
